@@ -2,16 +2,16 @@
 Esse projeto  foi criado com objetivo de ser um sistema de uma Loja , o tema sugerido foi uma loja de maquiagem .
 O projeto foi dividido em 4 partes :
 
-> Página do funcionário 
-> Página Inicial 
-> Controle de estoque 
-> Página para adcioanr os produtos . 
+.Página do funcionário 
+.Página Inicial 
+.Controle de estoque 
+.Página para adcioanr os produtos . 
 
 O site da parte do header está clicavel .
 
 .As tecnológias usadas foram 
-> HTML
-> CSS
+.HTML
+.CSS
 
 # Imagens das páginas 
 
